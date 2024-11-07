@@ -1,0 +1,3 @@
+requests>=2.31.0
+ccxt>=4.2.15
+pyupbit>=0.2.33

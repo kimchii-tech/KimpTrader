@@ -1,0 +1,19 @@
+{
+    "telegram_token": "",
+    "telegram_chat_id": "",
+    "threshold": 3.0,
+    "coins": ["BTC", "ETH", "XRP", "SOL"],
+    "refresh_rate": 30,
+    "sound_alert": true,
+    "fees": {
+        "upbit": {
+            "maker": 0.0005,
+            "taker": 0.0005
+        },
+        "binance": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "wire": 5000
+    }
+}
